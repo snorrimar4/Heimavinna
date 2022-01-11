@@ -1,0 +1,25 @@
+Heimavinna Heimasíða
+	- Login
+		- username og password
+			- Home
+	- Sign up
+		- nafn, username og password
+			- Home
+			
+	
+	
+	- Home
+		- listi af "reminders"
+		- skrá heimavinnu
+		
+		- profile
+			- settings
+				- skrá afanga
+				- eyða afanga
+				- breyta upplýsingum
+					- username
+					- password
+					- nafn
+				- eyða user
+			- sjá alla áfanga
+				- allir áfangar í lista (litir?)
