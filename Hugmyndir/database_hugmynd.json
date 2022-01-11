@@ -1,0 +1,145 @@
+{
+    "Users": [
+        {
+            "Username": "Username",
+            "Password": "Password (MD5 / SHA512)",
+            "RealName": "User 1",
+            "Afangar": [
+                {
+                    "AfangaName": "Afangi 1",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 2",
+                            "DoDate": "02-05-2022"
+                        }
+                    ]
+                },
+                {
+                    "AfangaName": "Afangi 2",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 2",
+                            "DoDate": "02-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 3",
+                            "DoDate": "04-05-2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Username": "Username",
+            "Password": "Password (MD5 / SHA512)",
+            "RealName": "User 2",
+            "Afangar": [
+                {
+                    "AfangaName": "Afangi 1",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 2",
+                            "DoDate": "02-05-2022"
+                        }
+                    ]
+                },
+                {
+                    "AfangaName": "Afangi 2",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        }
+                    ]
+                },
+                {
+                    "AfangaName": "Afangi 3",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 2",
+                            "DoDate": "10-02-2022"
+                        }
+                    ]
+                }
+            ]
+        },
+
+
+
+
+
+        {
+            "_comment": "Fyrsta sem er generated þegar nýr user er búinn til",
+
+            "Username": "Username",
+            "Password": "Password (MD5 / SHA512)",
+            "RealName": "User 3",
+            "Afangar": [
+                
+            ]
+        },
+
+
+
+
+
+        {
+            "_comment": "Næst þegar áfangi er skráður",
+
+            "Username": "Username",
+            "Password": "Password (MD5 / SHA512)",
+            "RealName": "User 3",
+            "Afangar": [
+                {
+                    "AfangaName": "Afangi 1",
+                    "Heimavinna": [
+                        
+                    ]
+                }
+            ]
+        },
+
+
+
+
+
+        {
+            "_comment": "Svo loks þegar heimavinna er skráð",
+
+            "Username": "Username",
+            "Password": "Password (MD5 / SHA512)",
+            "RealName": "User 3",
+            "Afangar": [
+                {
+                    "AfangaName": "Afangi 1",
+                    "Heimavinna": [
+                        {
+                            "Texti": "Heimavinna 1",
+                            "DoDate": "01-05-2022"
+                        },
+                        {
+                            "Texti": "Heimavinna 2",
+                            "DoDate": "10-02-2022"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
