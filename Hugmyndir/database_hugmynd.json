@@ -2,7 +2,7 @@
     "Users": [
         {
             "Username": "Username",
-            "Password": "Password (MD5 / SHA512)",
+            "Password": "Password (MD5 / SHA512 / B64)",
             "RealName": "User 1",
             "Afangar": [
                 {
@@ -39,7 +39,7 @@
         },
         {
             "Username": "Username",
-            "Password": "Password (MD5 / SHA512)",
+            "Password": "Password (MD5 / SHA512 / B64)",
             "RealName": "User 2",
             "Afangar": [
                 {
@@ -88,7 +88,7 @@
             "_comment": "Fyrsta sem er generated þegar nýr user er búinn til",
 
             "Username": "Username",
-            "Password": "Password (MD5 / SHA512)",
+            "Password": "Password (MD5 / SHA512 / B64)",
             "RealName": "User 3",
             "Afangar": [
                 
@@ -103,7 +103,7 @@
             "_comment": "Næst þegar áfangi er skráður",
 
             "Username": "Username",
-            "Password": "Password (MD5 / SHA512)",
+            "Password": "Password (MD5 / SHA512 / B64)",
             "RealName": "User 3",
             "Afangar": [
                 {
@@ -123,7 +123,7 @@
             "_comment": "Svo loks þegar heimavinna er skráð",
 
             "Username": "Username",
-            "Password": "Password (MD5 / SHA512)",
+            "Password": "Password (MD5 / SHA512 / B64)",
             "RealName": "User 3",
             "Afangar": [
                 {
