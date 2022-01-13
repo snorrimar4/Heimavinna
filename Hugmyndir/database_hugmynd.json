@@ -10,11 +10,13 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 2",
-                            "DoDate": "02-05-2022"
+                            "Dagsetning": "02-05-2022",
+							"Timi": "00:00"
                         }
                     ]
                 },
@@ -23,15 +25,18 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 2",
-                            "DoDate": "02-05-2022"
+                            "Dagsetning": "02-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 3",
-                            "DoDate": "04-05-2022"
+                            "Dagsetning": "04-05-2022",
+							"Timi": "00:00"
                         }
                     ]
                 }
@@ -47,11 +52,13 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 2",
-                            "DoDate": "02-05-2022"
+                            "Dagsetning": "02-05-2022",
+							"Timi": "00:00"
                         }
                     ]
                 },
@@ -60,7 +67,8 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         }
                     ]
                 },
@@ -69,11 +77,13 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 2",
-                            "DoDate": "10-02-2022"
+                            "Dagsetning": "10-02-2022",
+							"Timi": "00:00"
                         }
                     ]
                 }
@@ -131,11 +141,13 @@
                     "Heimavinna": [
                         {
                             "Texti": "Heimavinna 1",
-                            "DoDate": "01-05-2022"
+                            "Dagsetning": "01-05-2022",
+							"Timi": "00:00"
                         },
                         {
                             "Texti": "Heimavinna 2",
-                            "DoDate": "10-02-2022"
+                            "Dagsetning": "10-02-2022",
+							"Timi": "00:00"
                         }
                     ]
                 }
